@@ -1,0 +1,26 @@
+{
+  "name": "ApitestPureba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biohazard9999/ApitestPureba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biohazard9999/ApitestPureba/issues"
+  },
+  "homepage": "https://github.com/Biohazard9999/ApitestPureba#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "install": "^0.13.0",
+    "json-serve": "^0.1.0",
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
